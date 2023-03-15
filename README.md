@@ -1,7 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on software as much as I can.
-- 🌱 I’m currently learning css/bootstrap/javascript
+- 🌱 I’m currently javascript
 - 📫 How to reach me: edainalisil@gmail.com
+- 💬 Ask me about HTML, CSS, Bootstrap
+- 
 
 
 
