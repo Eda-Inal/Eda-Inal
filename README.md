@@ -2,8 +2,8 @@
 - 🔭 I’m currently working on software as much as I can.
 - 🌱 I’m currently javascript
 - 📫 How to reach me: edainalisil@gmail.com
-- 💬 Ask me about HTML, CSS, Bootstrap
-- 
+- 💬 Ask me about HTML, CSS, Bootstrap, Javascript
+
 
 
 
