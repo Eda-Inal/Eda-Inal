@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on software as much as I can.
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning react
 - 📫 How to reach me: edainalisil@gmail.com
 - 💬 Ask me about HTML, CSS, Bootstrap, Javascript
 
