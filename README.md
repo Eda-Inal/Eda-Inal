@@ -2,8 +2,8 @@
 
 
 ### Hi there 👋
-- 🔭 I’m currently working on software as much as I can.
-- 🌱 I’m currently learning react
+
+- 🌱 I’m currently learning redux
 - 📫 How to reach me: edainalisil@gmail.com
 
 
