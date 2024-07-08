@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning redux
+- 🌱 I’m currently learning next.js
 - 📫 How to reach me: edainalisil@gmail.com
 
 
