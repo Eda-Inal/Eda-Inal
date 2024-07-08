@@ -1,7 +1,7 @@
 
 
 
-### Hi there 👋
+## Hi there 👋
 
 - 🌱 I’m currently learning next.js
 - 📫 How to reach me: edainalisil@gmail.com
