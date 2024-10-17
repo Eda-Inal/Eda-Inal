@@ -6,7 +6,10 @@
 - 🌱 I’m currently learning Typescript.
 - 📫 How to reach me: edainalisil@gmail.com
 ---
-
+### Education & Certifications 🎓
+- Senior Year in Computer Science with a focus on Mathematics
+  
+---
 
 ### Languages 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -23,6 +26,9 @@
 ![Material-UI](https://img.shields.io/badge/Material--UI-%23008FFF.svg?style=for-the-badge&logo=mui&logoColor=white) 
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-%233cc6c1.svg?style=for-the-badge&logo=chakra-ui&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23752c91.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+
 
 
 
