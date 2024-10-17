@@ -26,6 +26,13 @@
 ![Material-UI](https://img.shields.io/badge/Material--UI-%23008FFF.svg?style=for-the-badge&logo=mui&logoColor=white) 
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-%233cc6c1.svg?style=for-the-badge&logo=chakra-ui&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23752c91.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+---
+### Tools & Technologies 🛠️
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
 
 
 
