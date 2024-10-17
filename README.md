@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Typescript.
 - 📫 How to reach me: edainalisil@gmail.com
 ---
-### Education & Certifications 🎓
+### Education 🎓
 - Senior Year in Computer Science with a focus on Mathematics
   
 ---
