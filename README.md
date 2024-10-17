@@ -16,6 +16,11 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Material-UI](https://img.shields.io/badge/Material--UI-%23008FFF.svg?style=for-the-badge&logo=mui&logoColor=white) 
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-%233cc6c1.svg?style=for-the-badge&logo=chakra-ui&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23752c91.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 
 
