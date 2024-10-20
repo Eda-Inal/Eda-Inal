@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m currently developing projects.
 - 📫 How to reach me: edainalisil@gmail.com
 ---
 ### Education 🎓
